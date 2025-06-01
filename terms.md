@@ -6,4 +6,4 @@ By using Kavach, you agree to comply with Discord’s [Terms of Service](https:/
 - Usage of this bot in your server is at your discretion.
 - Abusing the bot or using it for malicious purposes is prohibited.
 
-For questions or support, contact the developer at: your@email.com
+For questions or support, contact the developer at: lk07062005@gmail.com
